@@ -1,5 +1,6 @@
 # AI-and-Career-Empowerment-University-of-Maryland
 
+![Image Alt](https://github.com/Adityabaan/AI-and-Career-Empowerment-University-of-Maryland/blob/392d84d0e8c377c715762924eb65d4a16a53683a/U_Maryland.jpg)
 ---
 # 📚 Artificial Intelligence and Career Empowerment Certificate  
 🎓 **Offered by:** Robert H. Smith School of Business, University of Maryland  
